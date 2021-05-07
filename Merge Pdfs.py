@@ -11,6 +11,7 @@ def resource_path(relative_path):
         return os.path.join(sys._MEIPASS, relative_path)
     return os.path.join(os.path.abspath("."), relative_path)
 
+# Setup Root
 root = Tk()
 root.title("PDF Merger")
 root.geometry("300x110")
