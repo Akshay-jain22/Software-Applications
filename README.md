@@ -45,4 +45,6 @@ through https://github.com/Akshay-jain22/Software-Applications/pulls
 
 1. [Merge Pdfs](https://www.linkedin.com/posts/akshay-jain22_linkedinglobal-developer-pdfs-activity-6794219689695416320-DSEX) : A tool to merge pdfs by just one click.
 
+https://user-images.githubusercontent.com/64270972/122178479-41460b80-cea4-11eb-8bf1-091f8f05d0da.mp4
+
 ---
